@@ -1,5 +1,7 @@
 # aliyun 16.04 
-# curl -L https://cdn.jsdelivr.net/gh/gscsnm/Miner@master/sources.list.1604aliyun -o /etc/apt/sources.list
+# curl -L https://cdn.jsdelivr.net/gh/gscsnm/Miner@master/sources.list.ubuntu1604aliyun -o /etc/apt/sources.list
+# curl -L https://cdn.jsdelivr.net/gh/gscsnm/Miner@master/sources.list.ubuntu1604aliyun -O /etc/apt/sources.list
+
 deb http://mirrors.aliyun.com/ubuntu/ xenial main
 #deb-src http://mirrors.aliyun.com/ubuntu/ xenial main
 
