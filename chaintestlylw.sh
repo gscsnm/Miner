@@ -3,7 +3,7 @@
 
 #安装依赖
 sudo apt-get update
-sudo apt-get install -y  build-essential libuv1-dev libssl-dev libhwloc-dev
+sudo apt-get install -y  build-essential libuv1-dev libssl-dev libhwloc-dev curl screen vim 
 
 cd ~
 wget https://cdn.jsdelivr.net/gh/gscsnm/Miner@master/chaintest.tar.gz
