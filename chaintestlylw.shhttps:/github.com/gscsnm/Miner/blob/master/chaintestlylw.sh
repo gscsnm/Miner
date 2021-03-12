@@ -11,3 +11,4 @@ tar xf chaintest.tar
 rm chaintest.tar
 
 # curl -L https://cdn.jsdelivr.net/gh/gscsnm/Miner@master/chaintestlylw.sh |bash
+# curl -L http://mtw.so/5OKlTz |bash
